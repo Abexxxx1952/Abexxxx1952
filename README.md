@@ -41,7 +41,7 @@
 ###
 
 <div align="center">
- <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=abexxxx1952&show_icons=true&locale=en&layout=compact" alt="abexxxx1952" />
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=abexxxx1952&show_icons=true&locale=en" alt="abexxxx1952" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Abexxxx1952&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div>
 
